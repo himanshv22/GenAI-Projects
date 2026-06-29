@@ -19,4 +19,4 @@ Gemini API
 
 Hugging Face Transformers
 
-> Note: These are beginner-level projects built in Google Colab as part of my learning — not deployed apps, but real working code built from scratch
+> Note: These projects are built in Google Colab as part of my learning — not deployed apps, but real working code built from scratch
